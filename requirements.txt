@@ -1,0 +1,6 @@
+Flask
+gunicorn
+dnspython
+idna
+requests
+requests-toolbelt
